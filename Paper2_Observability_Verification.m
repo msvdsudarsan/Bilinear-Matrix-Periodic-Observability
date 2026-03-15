@@ -1,5 +1,5 @@
 %% ================================================================
-%  Supplementary MATLAB Code — Paper 2 (Observability)  v3
+%  Supplementary MATLAB Code — Paper 2 (Observability)  
 %  ----------------------------------------------------------------
 %  "Equivalence of Kalman and Hewer Observability for Generalised
 %   Bilinear Matrix Periodic Systems"
@@ -35,7 +35,7 @@
 %  ================================================================
 
 clear; clc; close all;
-fprintf('=== Paper 2 Observability v3: Numerical Verification ===\n\n');
+fprintf('=== Paper 2 Observability : Numerical Verification ===\n\n');
 
 %% ----------------------------------------------------------------
 %  SECTION 1 — SYSTEM DEFINITION
