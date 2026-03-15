@@ -4,7 +4,7 @@
 
 This repository contains MATLAB scripts used to reproduce the numerical experiments reported in the research paper
 
-“Equivalence of Kalman and Hewer Observability for Generalised Bilinear Matrix Periodic Systems.”
+“Kalman–Hewer observability equivalence and spectral energy bounds for generalised bilinear matrix periodic systems.”
 
 ---
 
