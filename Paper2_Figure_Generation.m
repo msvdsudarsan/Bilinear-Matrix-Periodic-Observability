@@ -12,13 +12,13 @@
 %    Fig3_Obs_SpectralBound.pdf
 %    Fig4_Obs_ScalingStudy.pdf
 %
-%  All values hardcoded from MATLAB v3 verified output.
+%  All values hardcoded from MATLAB verified output.
 %  ================================================================
 
 clear; clc; close all;
 
 % ----------------------------------------------------------------
-%  VERIFIED VALUES FROM MATLAB v3 RUN
+%  VERIFIED VALUES FROM MATLAB  RUN
 % ----------------------------------------------------------------
 
 % Monodromy eigenvalues (same system as Paper 1)
